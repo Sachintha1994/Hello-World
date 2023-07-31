@@ -7,3 +7,4 @@ students_names.clear()
 print(students_names)
 print(len(students_names))
 print("thilina")
+print.__setattr__
